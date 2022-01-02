@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "debug": "^4.1.1",
-    "ip": "^1.1.5",
-    "polycrc": "^0.1.0"
+    "fast-crc32c": "^2.0.0",
+    "ip": "^1.1.5"
   },
   "devDependencies": {
     "lodash": "^4.17.19",
